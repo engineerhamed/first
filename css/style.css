@@ -1,0 +1,75 @@
+.contaner{
+    background-color: #2196F3;
+    width: 280px;
+    padding: 25px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50% , -50%);
+    border-radius: 10px;
+   }
+
+   ::selection{
+       color: #2196F3;
+   }
+   .contaner .whight{
+       background-color: white;
+       padding: 25px;
+       border-radius: 5px;
+   }
+   .contaner .whight h1{
+       text-align: center;
+       margin-top: 10px;
+       color: #4B3D2E;
+   }
+   .contaner .whight input{
+       border: none;
+       outline: none;
+       margin: 5px 0;
+     caret-color:#2196F3 ;
+   }
+   .contaner .whight button{
+        color: white;
+       background-color: #2196F3;
+       border: none;
+       border-radius: 5px;
+       width:100%;
+       padding: 8px;
+       margin-bottom: 0px;
+      }
+   .contaner .whight .re{
+       text-align: center;
+       margin: 25px 0;
+   }
+   .contaner .whight .re span{
+       color: rgb(124, 124, 124);
+   }
+   .contaner .whight .re a{
+       text-decoration: none;
+       color: #2196F3;
+   }
+   .contaner .whight footer{
+       text-align: center;
+   }
+   .contaner .whight footer p{
+       font-weight: bold;
+       font-size: 14px;
+   }
+
+   .contaner .whight footer .icons i{
+       font-size: 20px;
+       margin: 0 3px;
+   }
+   .contaner .whight footer .icons .fa-facebook{
+      color: #3B5998;
+        }
+
+   
+   .contaner .whight footer .icons .fa-twitter {
+      color: #1DA1F2;
+   }
+
+   .contaner .whight footer .icons .fa-google-plus-g {
+      color: tomato;
+   }
+   
